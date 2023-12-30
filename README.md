@@ -1,16 +1,34 @@
-### Hi there 👋
+### Onixdev - Soluciones digitales creativas e innovadoras
 
-<!--
-**OnixdevOficial/OnixdevOficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos una Startup creativa e innovadora establecida en la ciudad de Quito - Ecuador, fundada con el objetivo de brindar soluciones digitales creativas e innovadoras que se ajusten a las necesidades de nuestros clientes y sus proyectos.
 
-Here are some ideas to get you started:
+- Software a medida.
+- Diseño y planificación.
+- Desarrollo ágil.
+- Experiencia de usuario.
+- Evaluación y pruebas.
+- Despliegue continuo.
+- Y más...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soluciones digitales a tu medida
+Ofrecemos una gran variedad de servicios que se ajustan a tus necesidades
+
+# Proyectos de Software
+- Aplicaciones Web.
+- Aplicaciones Móviles.
+- Aplicaciones Híbridas.
+- Videojuegos Web 2D
+- Y más.
+
+# Construcción de sitios web
+- Landing pages.
+- Portafolios de proyectos.
+- Corporativo / Empresarial.
+- Blogs.
+- Y más.
+
+# Asesoría y Consultoría
+- Levantamiento de requerimientos.
+- Gestión de Proyectos de Software con SCRUM.
+- Capacitaciones y más.
+
